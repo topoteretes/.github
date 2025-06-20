@@ -7,7 +7,7 @@
   Powering AI Agents with dynamic memory
 </p>
 
-Topoteretes delivers production-ready, high-performance memory infrastructure for AI Apps and Agents, replacing RAG-available open-source, deployable on your own infrastructure or in any cloud, and [hosted SaaS beta](https://www.cognee.ai/waitlist). 
+Topoteretes delivers production-ready, high-performance memory infrastructure for AI Apps and Agents, replacing RAG—available open-source, deployable on your own infrastructure or in any cloud, and [hosted SaaS beta](https://www.cognee.ai/waitlist). 
 
  <p align="center">
   <a href="https://www.cognee.ai/">Homepage</a>
