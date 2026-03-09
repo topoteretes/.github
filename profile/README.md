@@ -4,10 +4,10 @@
   </a>
 </p>
 <p align="center">
-  Powering AI Agents with dynamic memory
+  <em>Build AI memory with a Knowledge Engine that learns</em>
 </p>
 
-cognee inc delivers production-ready, high-performance memory infrastructure for AI Apps and Agents, replacing RAG—available open-source, deployable on your own infrastructure or in any cloud, and [hosted SaaS beta](https://www.cognee.ai/waitlist). 
+Cognee is an open-source knowledge engine that lets you ingest data in any format or structure and continuously learns to provide the right context for AI agents. It combines vector search, graph databases and cognitive science approaches to make your documents both searchable by meaning and connected by relationships as they change and evolve. Our solution is deployable on your own infrastructure or in any cloud, and [hosted SaaS beta](https://www.cognee.ai/waitlist). 
 
  <p align="center">
   <a href="https://www.cognee.ai/">Homepage</a>
@@ -26,9 +26,11 @@ cognee inc delivers production-ready, high-performance memory infrastructure for
 
 ---
 
-### 🚀 Core memory engine  – [cognee](https://github.com/topoteretes/cognee)  
-- **Memory for AI Agents in&nbsp;5 lines of code** – ingest, cognify, query.  
-- Graph + Vector fusion for accurate, cost-efficient retrieval.  
+### 🚀 What Cognee provides – [cognee](https://github.com/topoteretes/cognee)  
+
+- **Knowledge infrastructure** — unified ingestion, graph/vector search, runs locally, ontology grounding, multimodal
+- **Persistent and Learning Agents** - learn from feedback, context management, cross-agent knowledge sharing
+- **Reliable and Trustworthy Agents** - agentic user/tenant isolation, traceability, OTEL collector, audit traits
 
 ### 🛠  Ecosystem repos
 | Repo | What it’s for |
@@ -36,6 +38,8 @@ cognee inc delivers production-ready, high-performance memory infrastructure for
 | [`cognee`](https://github.com/topoteretes/cognee) | Base SDK and example dataset and pipelines to get started with cognee |
 | [`cognee-community`](https://github.com/topoteretes/cognee-community) | Community-maintained plugins & add-ons |
 | [`awesome-ai-memory`](https://github.com/topoteretes/awesome-ai-memory) | Curated list of tools in AI-memory space |
+| [`awesome-ai-memory`](https://github.com/topoteretes/cognee-integration-langgraph) | Cognee integration with Langgraph |
+
 
 ### 📚 Docs & guides
 - [**Docs:**](https://docs.cognee.ai) – tutorials, how-to guides, all you need to know
