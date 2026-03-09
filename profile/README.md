@@ -38,7 +38,7 @@ Cognee is an open-source knowledge engine that lets you ingest data in any forma
 | [`cognee`](https://github.com/topoteretes/cognee) | Base SDK and example dataset and pipelines to get started with cognee |
 | [`cognee-community`](https://github.com/topoteretes/cognee-community) | Community-maintained plugins & add-ons |
 | [`awesome-ai-memory`](https://github.com/topoteretes/awesome-ai-memory) | Curated list of tools in AI-memory space |
-| [`awesome-ai-memory`](https://github.com/topoteretes/cognee-integration-langgraph) | Cognee integration with Langgraph |
+| [`cognee-integration-langgraph`](https://github.com/topoteretes/cognee-integration-langgraph) | Cognee integration with Langgraph |
 
 
 ### 📚 Docs & guides
